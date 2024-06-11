@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/15793963/README.md)# Text-editor-python
+# Text-editor-python
 Simple Text Editor in Python
 
 ### Introduction
